@@ -8,14 +8,13 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Testgitbash_CLogin {
+public class Testgitbash_Creationdummy2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		// TODO Auto-generated method stub
 
-	//Token = 	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
 				//Launch Chromedriver
 				WebDriverManager.chromedriver().setup();
 				
